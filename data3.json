@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "pagination": {
+            "total": 1408,
+            "pages": 71,
+            "page": 3,
+            "limit": 20,
+            "links": {
+                "previous": "https://gorest.co.in/public/v1/users?page=2",
+                "current": "https://gorest.co.in/public/v1/users?page=3",
+                "next": "https://gorest.co.in/public/v1/users?page=4"
+            }
+        }
+    },
+    "data": [{
+            "id": 56,
+            "name": "Shivakari Kaniyar",
+            "email": "kaniyar_shivakari@adams.io",
+            "gender": "female",
+            "status": "active"
+        },
+        {
+            "id": 57,
+            "name": "Gauranga Reddy",
+            "email": "gauranga_reddy@franecki-rath.org",
+            "gender": "female",
+            "status": "active"
+        },
+        {
+            "id": 58,
+            "name": "Jyotsana Johar",
+            "email": "johar_jyotsana@senger.info",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 59,
+            "name": "Suman Ahluwalia",
+            "email": "ahluwalia_suman@stokes.co",
+            "gender": "female",
+            "status": "active"
+        },
+        {
+            "id": 60,
+            "name": "Gatik Banerjee",
+            "email": "gatik_banerjee@carroll.io",
+            "gender": "female",
+            "status": "active"
+        },
+        {
+            "id": 61,
+            "name": "Shantanu Shah",
+            "email": "shantanu_shah@braun.com",
+            "gender": "female",
+            "status": "active"
+        },
+        {
+            "id": 62,
+            "name": "Naval Embranthiri",
+            "email": "naval_embranthiri@graham-cummerata.info",
+            "gender": "female",
+            "status": "active"
+        },
+        {
+            "id": 63,
+            "name": "Shakti Bandopadhyay",
+            "email": "bandopadhyay_shakti@jerde.io",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 64,
+            "name": "Gautama Pilla",
+            "email": "gautama_pilla@hartmann.info",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 65,
+            "name": "Dandak Varman",
+            "email": "dandak_varman@nikolaus-klein.io",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 66,
+            "name": "Deenabandhu Nehru",
+            "email": "nehru_deenabandhu@hyatt.com",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 67,
+            "name": "Eshana Johar",
+            "email": "eshana_johar@howell.co",
+            "gender": "male",
+            "status": "inactive"
+        },
+        {
+            "id": 68,
+            "name": "Rep. Prasad Dwivedi",
+            "email": "prasad_rep_dwivedi@hettinger-vandervort.name",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 69,
+            "name": "Deven Mehra",
+            "email": "mehra_deven@schamberger.biz",
+            "gender": "female",
+            "status": "active"
+        },
+        {
+            "id": 70,
+            "name": "Garuda Namboothiri Sr.",
+            "email": "sr_namboothiri_garuda@herman-donnelly.org",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 71,
+            "name": "Amb. Kanti Khan",
+            "email": "amb_kanti_khan@labadie.name",
+            "gender": "male",
+            "status": "inactive"
+        },
+        {
+            "id": 72,
+            "name": "Dharitri Jha",
+            "email": "jha_dharitri@rohan.io",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 73,
+            "name": "Acharyanandana Kaur",
+            "email": "kaur_acharyanandana@rohan.biz",
+            "gender": "male",
+            "status": "inactive"
+        },
+        {
+            "id": 74,
+            "name": "Anal Nayar",
+            "email": "anal_nayar@walker.biz",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 10,
+            "name": "Nithin",
+            "email": "gemini_adiga_prof@raynor.biz",
+            "gender": "male",
+            "status": "inactive"
+        }
+    ]
+}

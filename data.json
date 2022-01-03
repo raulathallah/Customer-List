@@ -1,0 +1,156 @@
+{
+    "meta": {
+        "pagination": {
+            "total": 8293,
+            "pages": 415,
+            "page": 1,
+            "limit": 20,
+            "links": {
+                "previous": null,
+                "current": "https://gorest.co.in/public/v1/users?page=1",
+                "next": "https://gorest.co.in/public/v1/users?page=2"
+            }
+        }
+    },
+    "data": [{
+            "id": 3,
+            "name": "Amaresh Sharma",
+            "email": "sharma_amaresh@jacobi.org",
+            "gender": "female",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "Lavanya Singh",
+            "email": "lavanya_singh@fadel.name",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 5,
+            "name": "Gautama Chattopadhyay",
+            "email": "chattopadhyay_gautama@bosco-flatley.info",
+            "gender": "male",
+            "status": "inactive"
+        },
+        {
+            "id": 2835,
+            "name": "John Doe",
+            "email": "meera.joe+48637@test.com",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 8,
+            "name": "Harinarayan Malik",
+            "email": "malik_harinarayan@wehner.com",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 9,
+            "name": "Agniprava Gupta JD",
+            "email": "agniprava_jd_gupta@pollich-labadie.biz",
+            "gender": "male",
+            "status": "inactive"
+        },
+        {
+            "id": 11,
+            "name": "Vaidehi Sinha DC",
+            "email": "dc_vaidehi_sinha@walsh.biz",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 12,
+            "name": "Mani Gandhi",
+            "email": "gandhi_mani@bins-beahan.com",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 14,
+            "name": "Gauraang Gupta",
+            "email": "gauraang_gupta@grant-hermann.net",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 15,
+            "name": "Ujjwal Jain",
+            "email": "jain_ujjwal@keebler.org",
+            "gender": "male",
+            "status": "inactive"
+        },
+        {
+            "id": 16,
+            "name": "Harita Trivedi",
+            "email": "harita_trivedi@homenick.co",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 17,
+            "name": "Agnivesh Dubashi",
+            "email": "dubashi_agnivesh@jacobs.info",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 18,
+            "name": "Harinarayan Mishra",
+            "email": "harinarayan_mishra@bins.io",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 19,
+            "name": "Inder Mahajan Sr.",
+            "email": "inder_sr_mahajan@terry-gerhold.net",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 21,
+            "name": "Chidaatma Gandhi",
+            "email": "chidaatma_gandhi@walsh.name",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 23,
+            "name": "Aayushmaan Adiga PhD",
+            "email": "phd_adiga_aayushmaan@kunde.io",
+            "gender": "female",
+            "status": "active"
+        },
+        {
+            "id": 24,
+            "name": "Narinder Mehra DDS",
+            "email": "narinder_mehra_dds@barrows.biz",
+            "gender": "male",
+            "status": "active"
+        },
+        {
+            "id": 25,
+            "name": "Bhooshit Varman",
+            "email": "bhooshit_varman@runolfsdottir-wunsch.biz",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 26,
+            "name": "Mr. Gatik Dubashi",
+            "email": "mr_dubashi_gatik@barrows.io",
+            "gender": "female",
+            "status": "inactive"
+        },
+        {
+            "id": 27,
+            "name": "Somnath Dhawan",
+            "email": "somnath_dhawan@fadel.name",
+            "gender": "female",
+            "status": "inactive"
+        }
+    ]
+}
