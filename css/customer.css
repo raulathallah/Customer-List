@@ -137,39 +137,6 @@ body {
     display: block;
 }
 
-@media screen and (max-width: 1281px) {
-    .customer_detail_box {
-        padding: 64px;
-    }
-    .detail_card .data_box {
-        width: 350px;
-        padding: 10px;
-    }
-    .customer_button {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        text-align: center;
-        width: 100%;
-    }
-    .customer_button a#return {
-        background-color: #007BFF;
-        margin: 10px 0;
-    }
-    .customer_button a#delete {
-        background-color: #FF0000;
-        margin: 10px 0;
-    }
-    .status_box {
-        width: 350px;
-        text-align: center;
-        font-weight: bold;
-    }
-    .customer_detail_right {
-        align-items: center;
-    }
-}
-
 @media screen and (max-width: 1025px) {
     .box_container h2 {
         margin: 0;
